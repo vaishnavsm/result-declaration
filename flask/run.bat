@@ -1,1 +1,1 @@
-waitress-serve --listen=*:5000 server.wsgi:app
+waitress-serve --listen=*:8000 server.wsgi:app
