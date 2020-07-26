@@ -3,3 +3,4 @@ env
 env2
 pypy
 __pycache__
+node_modules

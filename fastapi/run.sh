@@ -1,0 +1,1 @@
+uvicorn --host=0.0.0.0 server.app:app > /dev/null 2> /dev/null

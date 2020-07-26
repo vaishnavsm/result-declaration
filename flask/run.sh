@@ -1,1 +1,1 @@
-gunicorn --bind 0.0.0.0:8000 server.wsgi:app
+gunicorn --bind 0.0.0.0:8000 server.wsgi:app > /dev/null 2> /dev/null
